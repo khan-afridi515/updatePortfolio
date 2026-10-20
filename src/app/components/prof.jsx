@@ -217,7 +217,7 @@ export default function Prof() {
           >
             <div className="absolute inset-3.5 overflow-hidden rounded-[36%_64%_52%_48%/46%_42%_58%_54%] bg-[var(--solid)]">
               <Image
-                src="/_DSC7118.jpg"
+                src="/_DSC7118.JPG"
                 alt="Aziz Ullah"
                 fill
                 priority
