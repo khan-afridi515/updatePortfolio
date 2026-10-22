@@ -30,7 +30,7 @@ const CERTIFICATIONS = [
 const EXPERIENCE = [
   {
     role: "MERN Stack Developer",
-    company: "Aptech Media",
+    company: "Aptech Media Pvt Ltd",
     date: "Nov 2025 – Present",
     current: true,
     desc: "Building full-stack web applications with clean, scalable architecture and REST APIs, and delivering features with cross-functional teams.",

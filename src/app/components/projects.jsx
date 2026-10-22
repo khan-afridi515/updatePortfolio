@@ -49,7 +49,7 @@ const PROJECTS = [
     desc: "This portfolio, built with smooth animations, dark and light themes and a fully responsive layout.",
     image: "/portfolio.png",
     tech: ["Next Js", "Tailwind CSS", "Framer Motion"],
-    live: null, // add your link later
+    live: "https://update-portfolio-delta.vercel.app"
   },
 ];
 
